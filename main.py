@@ -23,6 +23,8 @@ gold = 20
 x = 0
 y = 0
 
+
+# Displays the map
 def display_test_map():
     for row in test_map:
         print(row)
