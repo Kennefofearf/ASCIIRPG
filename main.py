@@ -26,7 +26,10 @@ y = 0
 
 # Displays the map
 def display_test_map():
+    global current_tile
     for row in test_map:
+        # for current_tile in test_map:
+        #     print("@")
         print(row)
 
 

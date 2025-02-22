@@ -3,6 +3,6 @@ Koe
 3
 1
 20
-2
-1
-False
+0
+0
+True
